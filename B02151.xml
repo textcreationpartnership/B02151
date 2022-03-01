@@ -1,0 +1,908 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian's daily practice of piety: or, Holy walking with God. As also, Scripture rules to be observed in buying and selling. Very useful for all sort of people that desires to make conscience of their ways here, and to fit themselves for their great account hereafter.</title>
+            <author>R. A. (Richard Alleine), 1611-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02151</idno>
+            <idno type="STC">Wing C3954A</idno>
+            <idno type="STC">ESTC R173846</idno>
+            <idno type="EEBO-CITATION">47012346</idno>
+            <idno type="OCLC">ocm 47012346</idno>
+            <idno type="VID">174312</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174312)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2683:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian's daily practice of piety: or, Holy walking with God. As also, Scripture rules to be observed in buying and selling. Very useful for all sort of people that desires to make conscience of their ways here, and to fit themselves for their great account hereafter.</title>
+                  <author>R. A. (Richard Alleine), 1611-1681.</author>
+               </titleStmt>
+               <extent>24, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for [J.] Deacon ... and reprinted at Edinburgh, by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh] London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The Contents of this Book is desired to be practiced by all good Christian. By your, R. Alleine." P. [1]</note>
+                  <note>Author taken from last page.</note>
+                  <note>Imperfect: tightly bound with some loss of text and missing type.</note>
+                  <note>"Licensed according to Order:"</note>
+                  <note>Reproduction of original in: University of Glasgow Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature --  Great Britain --  Early works to 1800.</term>
+               <term>Piety --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174312:1"/>
+            <p>THE CHRISTIANS Daily <hi>PRACTICE</hi> of PIETY: OR, <hi>Holy walking with GOD.</hi> AS ALSO,
+Scripture Rules to be ob<g ref="char:EOLhyphen"/>ſerved in Buying and Selling. Very Uſeful for all ſorts of People
+that deſires to make Conſcience of their ways here, and to fit themſelves for their great
+Account hereafter.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed according to Order:</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London Printed</hi> for <hi>J. Deacon,</hi> at the <hi>Angel</hi> in <hi>Gilt-ſpure
+ſtreet,</hi> 1698. And Re-printed at <hi>Edinburgh,</hi> by the Heirs and Succeſſors of
+<hi>Andrew Anderſon,</hi> Printer to the Kings Moſt Excellent Majeſty. 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:174312:2"/>
+            <pb n="3" facs="tcp:174312:2"/>
+            <head>THE CHRISTIANS Daily PRACTICE of PIETY.</head>
+            <p n="1">1. BE ſure to get God, and the things of God next thy Heart when thou awak<g ref="char:EOLhyphen"/>eſt. God,
+the World and Satan with his ſuggeſtions knocks to get firſt in. Open firſt to God, if
+Satan or the World hath poſſeſſion, out them ſpeedily, and let thy Meditation on God be
+ſweet; ſpend thy firſt thoughts on him, and thy Eternal condition, whoſe thou ſhall be at
+the opening of the Graves, and the riſing of the Dead: think alſo thou art on Night nearer
+Heaven or Hell; reſolve to do ſome<g ref="char:EOLhyphen"/>thing towards thy Salvation that day in mortifying ſome
+ſin, and getting nearer to Chriſt.</p>
+            <p n="2">2. Before thou entertaineſt the World, get more ſolemnly to God, lift up thy heart
+unto him, firſt in thanksgiving for the Bed bleſſing, thy re<g ref="char:EOLhyphen"/>newed life and ſtrength, and
+then pour out thy Soul in ſupplication to him for his grace to en<g ref="char:EOLhyphen"/>able thee in thy duties, to
+reſiſt the temptations, and to be kept from the evils of that day, enlarge thy ſelf, as time
+and place will permit, read withal ſome potion of Scripture If thou canſt.</p>
+            <p n="3">
+               <pb n="4" facs="tcp:174312:3"/>3. Alter thou haſt been with God, ſet a watch upon thy Heart, and keep it
+cloſe, that thy Heart <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not depart too far from God that day, by ſetting it over much on
+the Creatures, and thy Calling, but keep thy mind heavenly, and near to God, labouring hourly to
+keep the ſweet reliſh of God upon thy Soul which thou hadſt in thy mor<g ref="char:EOLhyphen"/>ning Contemplation and
+Duty, leſt thy Mind and Affection cleave to the World, and ſo thou ſpend that day without God
+in the World.</p>
+            <p n="4">4. When thy watch is ſet, then ſet upon thy lawfull Calling with Diligence and good
+will, do<g ref="char:EOLhyphen"/>ing every hours Work, as to the Lord, live not out of a Calling, nor idle in it,
+exerciſe as much Care as the weightineſs of the work requires; make Conſcience of ſpending
+the day well; judge a miſpent hour no ſmall ſin.</p>
+            <p n="5">5. When thou art in thy Calling, avoid all juſt cauſe of offence to God and Man, in
+Word and Deed; do not provoke God to wrath, nor thoſe that dwell near thee; corrupt not any by
+thy wan<g ref="char:EOLhyphen"/>ton Carriage; wrong not any by unjuſt dealing; be courteous, peaceable, and harmleſs;
+do not eaſily take Offence, but be patient, long ſuffering, forgetting, and forgiving, as God
+for Chriſt's ſake forgives thee.</p>
+            <p n="6">6. Set a ſolemn time a-part to pray in, and with thy Family twice in the day at leaſt,
+and let thoſe prayer-ſeaſons be when the whole Family can moſt conveniently aſſemble,
+and ſuffer none through ſickneſſe to be abſent: let not Evening Prayer-ſeaſon be
+deferred too late, leſt the Body be unable cheerfully to aſſiſt the Soul; and oft, through
+wearineſs and heavineſs, thou loſs the Duty
+<pb n="5" facs="tcp:174312:3"/> and diſpleaſe God. In all theſe Duties be hearty, fervent, faithful and
+ſerious; ſpend alſo ſome of of the day in Meditation of Sin, of Chriſt, of Death,
+Judgment, and the Life to come.</p>
+            <p n="7">7. Be careful all the day long of thy Diſcourſe, for thou muſt give an account of
+every idle Word, and by thy words thou ſhalt be juſtified, and by thy words thou ſhalt be
+condemned; let all thy Speeches be ſerious holy, in-offenſive, and edi<g ref="char:EOLhyphen"/>fying; weigh before hand
+what honour thy Diſ<g ref="char:EOLhyphen"/>courſe will bring to God, what good to thy Friend, what good or hurt to thy
+own Soul; uſe not any fooliſh jeſting, or taunting reproachful Speeches; ſpend not many
+words in thy Buying and Selling, abhore all lies, tales, idle ſtories, wanton ſongs, and do not
+curſe nor ſwear, or uſe the name of God vainly: Let the matter of thy diſcourſe be either
+on the things of God, or the neceſſary works of thy Calling: talk not much of other Mens
+matters, back-bite none; If thou ſpeak of their Sins, let it be with Grief, and ſo avoid the
+ſame thy ſelf: if of their Godlineſs, let it be to imitate them: Re<g ref="char:EOLhyphen"/>member God ſtands by,
+he hears, and write-down all thou ſayeſt.</p>
+            <p n="8">8. Obſerve hourly Gods providential dealing with thee or o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers<g ref="char:punc">▪</g> If God hath
+appeared to thee or others, in any eminent mercy, or judge, ment, note that, and remember to
+praiſe, fear, and love him for it; eſpecially obſerve what ſin he hath ſhewed thee, what
+hints of his love, what hopes of his glory; write theſe in a Book, but chiefly in thy Heart, for
+thy ſupporting in deſert<g ref="char:EOLhyphen"/>ing and dying times.</p>
+            <p n="9">9. Have a care all day to the feet of thy Afflecti<g ref="char:EOLhyphen"/>ons,
+<pb n="6" facs="tcp:174312:4"/> on what they are ſet; they will be apt to ſettle on the world and ſin, and
+withdraw from God and Duty, review them continually, ask thy ſelf often what thou loveſt,
+feareſt, deſireſt, where thou art, and on what, and recal thy ſoul if it be departed from
+God.</p>
+            <p n="10">10. Take heed of letting looſe the Reins to un<g ref="char:EOLhyphen"/>ruly Paſſions; If thou be angry,
+ſin not, be eaſie to be intreated, again; let not the Sun go down on thy wrath: abhor railing,
+reviling, or ſtoma<g ref="char:EOLhyphen"/>ching any, in thy patience poſſeſs thy Soul.</p>
+            <p n="11">11. When thou findeſt any temptations ariſing, be ſure to meet the Tempter in the
+ſtrength of Chriſt, with ſome Scripture commands, promiſe or threatning, which ſuits with
+the nature of the Temptation to repel it: and let not the Tempter get too near thee: If he be
+within thee, thou art like to be ſoiled: It's eaſier to keep out an Ene<g ref="char:EOLhyphen"/>my, than to caſt him
+out when he is in; eſpeci<g ref="char:EOLhyphen"/>ally eye the Tempter moſt, when he ſets on thee to intice thee into
+thy Conſtitution Sins.</p>
+            <p n="12">12. Mark every hour the coming and going of the Spirit, and attend upon its motions, hear
+what it ſaith unto thee, and when thou feel'ſt more than ordinary of his preſence, than
+examine thy graces, mortifie ſin, cleave heartily to God, and delight thy Soul in him; withal,
+then labour for aſſurance of his love, (but omit not thy calling) when thou feeleſt the
+Spirit depart, let it not go too far before thou crieſt after it: O make thy moan to God
+ſpeedily for its income again.</p>
+            <p n="13">13. Labour to add ſomething to every grace each day of thy life, and to take
+ſomething from thy ſin; build up thy knowledge in faith, love
+<pb n="7" facs="tcp:174312:4"/> joy, and fear daily; lay conſideration to the root of all thy graces to
+quicken them, be as careful of the graces of thy Soul, as of the Children of thy Body, that each
+may have its meat in due ſeaſon; withdraw thy Soul from every Sin, lay the ax to the root of
+them, and be cutting about them every hour.</p>
+            <p n="14">14. Have frequent and hourly recourſe to the Blood of Chriſt by acts of Faith, for
+renewed acts of pardon for thy renewed ſins, and keep open the flood-gates of Repentance, which
+muſt run day<g ref="char:EOLhyphen"/>ly as thou ſinneſt daily; be perſwaded that thy work is never done till thy
+Life be done; alſo be frequently leaning on Chriſt, and drawing ſtrength from him, and help
+in every undertaking, making him thy All in the point of Acceſſion with the Fa<g ref="char:EOLhyphen"/>ther, and
+aſſiſtance in all thy lawful works and duties.</p>
+            <p n="15">15 If thou fail into the ſin of a deep dye, lye not long in it, but apply thy ſelf to
+Chriſt for help; and though thou muſt go with ſhame to God by Chriſt for forgiveneſs, yet
+go ſpeedily and lye at the Throne of Grace, till thou haſt got ſome ſence of God's favour,
+and made up the breach which thy ſins made; till thy ſtrangeneſs to God by rea<g ref="char:EOLhyphen"/>ſon of that
+ſin be removed from thy ſpirit: when thou art wounded, it's not good to lye long from the
+Phyſitian.</p>
+            <p n="16">16. Above all, take heed leſt thou fall into a cuſtom of ſinning; if one act or two
+may ſtand after Illumination of Grace, do not think too many will; betimes get out of the way of
+ſinning, the more thou yieldeſt, the more ſad thy caſe, and hard thy cure is.</p>
+            <p n="17">
+               <pb n="8" facs="tcp:174312:5"/>17. Be doing or receiving good in all thy places God ſhall call thee: if thou
+art among thy Superi<g ref="char:EOLhyphen"/>ours in Grace and Knowledge, learn, if among thoſe that are weaker, teach
+them; ſuffer not ſin to paſs by unreproved, but be a faithful, yet a wiſe Monitor of
+thoſe about thee, and take reproofs thy ſelf kindly.</p>
+            <p n="18">18. In the Evening of the day perform thy Eve<g ref="char:EOLhyphen"/>ning Sacrifice of private and ſecret
+prayer, and praiſes for thy ſpecial graces mercies, and love<g ref="char:punc">▪</g> tokens received that day;
+then give up thy ſelf to God and his protection, kiſs his Son, and let him lye between thy Arms
+all night, meditate on him in the night watches, and take thy reſt ſweetly in the Lord.</p>
+            <p>
+               <hi>Nullus Dies ſine linea:</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="9" facs="tcp:174312:5"/>
+            <head>SCRIPTURE RULES To be Obſerved in <hi>Buying</hi> and <hi>Selling.</hi>
+            </head>
+            <div type="subpart">
+               <head>Rules concerning Buying Commodities.</head>
+               <p n="1">1. IF you would not tranſgreſs Scripture Rules in Buying: then firſt, take heed that
+you do not diſcommend thoſe Commodities that are very good, which you are about to buy, that
+ſo you may not bring down the price of the Com<g ref="char:EOLhyphen"/>modity, and get it for leſs than it is worth;
+there is a known place of Scripture for this, in <hi>Prov.</hi> 20.14. <hi>It is nought ſaith the
+buyer; but when he gone his way, then he boaſtet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> People in <hi>Solomon</hi>'s time they
+were wicked, when they came to the Market to buy any thing, the Buyer he would diſ<g ref="char:EOLhyphen"/>commend the
+Commodity, and ſay, <hi>it was nought</hi> though it were very good and ſaleable; but when the
+ſeller was gone, then he would boaſt of what a good penny-worth he had bought, and the
+like.</p>
+               <p n="2">2. Do not make vows and proteſtations, that you will give no more for a Commodity than
+what you have firſt offered, when afterwards you will give more. This is a very common thing with
+Tradeſmen: You ſhall have a man come to a Shop, and cheapen a Commodity, and the Buyer he will
+ſay, <hi>He will not give a farthing more,</hi> and the ſel<g ref="char:EOLhyphen"/>ler will ſay, <hi>He will not
+take a farthing leſs;</hi> and
+<pb facs="tcp:174312:6"/>
+                  <pb n="8" facs="tcp:174312:7"/> 
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:174312:7"/> 
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:174312:8"/> yet both the Buyer gives more and the Sell<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> takes leſs: now this is no other
+than a palpabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and downright Lie.</p>
+               <p n="3">3. Do not give counterfeit money for thoſe Com<g ref="char:EOLhyphen"/>modities you buy: This you have an
+Example o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in <hi>Abraham,</hi> when he was to buy the field in <hi>Mack<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>pelah</hi> of
+<hi>Ephron</hi> the <hi>Hittite,</hi> for a Burying-place in <hi>Gen.</hi> 23.16. ſaith
+<hi>Abraham I will give thee fou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hundred Shekles of Silver, current Money with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Merchant;</hi>
+and therefore you tranſgreſs Scripture Rules, If you know you have braſs Money, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+Counterfeit Gold about you, and yet pay it away for Commodities; you ſin in doing ſo, though
+you your ſelf took it for Commodities.</p>
+               <p n="4">4. Do not give for a Commodities leſs than in your Conſcience you think it is worth;
+it is an oppreſſion in buying, when you ſeek to bring a Commodity under its due value and
+worth. <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> when he was to buy the Cave <hi>in Mackpelah</hi> of <hi>Ephron,</hi>
+ſaith he, <hi>I will give thee the worth of it in Money and ſo Davi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, when he was to buy the
+Threſhing-floor of</hi> Araunah <hi>the Jebuſite,</hi> 2 <hi>Sam.</hi> 24.24. ſaith he, <hi>I
+will buy it of thee at the full value of it.</hi>
+               </p>
+               <p n="5">5. Do not long defer the paying of theſe Com<g ref="char:EOLhyphen"/>modities which you have bought, when thou
+haſt by thee wherewithal to pay it. There is an Excel<g ref="char:EOLhyphen"/>lent place for this in <hi>Prov.</hi> 3.27,
+28. <hi>Withhold not good from them to whom it is due, when it is in the power of thine hand to
+give it. Say not unto thy Neighbour, go, and come again, and tomorrow I will give, when thou hast
+it by thee.</hi> This Text is re<g ref="char:EOLhyphen"/>ferred to works of Mercy, but hath relation to
+<pb n="11" facs="tcp:174312:8"/> Buying and Selling, and Trading in the World. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f you owe a Man Money for a
+Commodity, you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ought to pay him, and not to let him come day <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter day for it, and go without it,
+when you have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by you. 2 <hi>Kings</hi> 4.7. It is the Badge of a wick<g ref="char:EOLhyphen"/>ed man in Scripture,
+not to pay his Debts, in <hi>Pſal.</hi> 31.20. <hi>The wicked borroweth and payeth not
+again.</hi>
+               </p>
+               <p n="6">6. Do not engroſs a Commodity, that is, do not buy all of a Commodity into your own
+hands alone, that by that means you may ſell the Com<g ref="char:EOLhyphen"/>modity at your own price; This is a meer
+oppreſ<g ref="char:EOLhyphen"/>ſion, deſtructive to a Common-wealth, and to all Trading: The Scripture condemnes this
+in <hi>Prov.</hi> 11.6. It is ſpoken there of Corn-Mongers, ſaith the Text, <hi>He that
+withholdeth Corn, the People ſhal cu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe him; but bleſſing ſhall be upon the head of him
+that ſelleth i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> In <hi>Solomon's</hi> time there were Corn-Mongers, that when Corn was
+cheap, would go and buy up all the Corn in the Country, and would keep it up and ſell none till
+Corn was very dear; now ſaith the Text, <hi>He that doth thus the People ſhall curſe him for
+it; but bleſſing ſhall be upon the head of him that ſelleth it.</hi> Now it is no ſin in
+it ſelf to engroſs a Commodity, thereby to ſell it the cheaper; but, for a Man to engroſs a
+Com<g ref="char:EOLhyphen"/>modity meerly thereby to advance the price of it, this is ſuch an oppreſſion, that the
+People ſhall curſe him for it.</p>
+               <p n="7">7. Do not in your buying of Commodity take any advantage of the miſtake or overſight
+of the Seller; as, ſuppoſe you ſhould come to a Shop, and buy ſo many Yards of Cloth, or
+the like,
+<pb n="12" facs="tcp:174312:9"/> and he ſhould give you more than is thy due, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> take leſs money of thee
+than is his due, you ſhould take no advantage of him in ſuch a Caſe, but re<g ref="char:EOLhyphen"/>ſtore it again:
+for if you take any more from hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> than you bought of him it is theft or if you give any leſs for
+the Commodity than you bargained for. It is Their. There is an excellent place for this in
+<hi>Gen.</hi> 43 12. <hi>Jacob,</hi> when there was a Fa<g ref="char:EOLunhyphen"/>mine in the Land he ſent his Sons down
+into <hi>Egypt</hi> to buy Corn, and <hi>Joſeph</hi> he knowing his B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ethren, filled their Sacks
+with Corn, and put the Money which they brought for the Corn in the mouth o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Sacks again; and
+when they came home and found their Money in the mouth of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir Sacks, they told their Father
+<hi>Jacob</hi> of it: the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaid he to them, <hi>Go back again, and take double Money in your
+hand; and the Money that was brought again in the mouth of your Sacks, carrie it again in in your
+hands, for peradventure it was an overſight</hi> Here was a conſcientiouſneſs in
+<hi>Jacob.</hi>
+               </p>
+               <p n="8">8. Do not buy any Commodities on the Lord's Day: It is true, upon urgent occaſions to
+main<g ref="char:EOLhyphen"/>tain Life either of Man or Beaſt, this is lawful, but to buy any thing that you may well be
+without till. Munday, in this caſe you may ſin if you buy any thing on the Lord's Day, in
+<hi>Neh.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.13. <hi>And Ne<g ref="char:EOLhyphen"/>hemiah entred into an Oath, and the people with him, that if any of
+the people of the Land brought Wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, or any Victuals, to ſell on the Sabbath day, that they
+ſhould not buy it of them.</hi> And as the Law did not give them leave to break the Iewiſh
+Sabbath, ſo neither doth the Goſpel give us leave to break the Chriſtian Sabbath; and
+therefore I cannot ſee but that is a ſin, for men to buy either Wine, or Beer,
+<pb n="13" facs="tcp:174312:9"/> or Pepper, or Muſtard, or any other trivial thing which they may well be
+without) on the Sab<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath Day.</p>
+               <p n="7">7. Do not in buying a Commodity, work upon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he neceſſity of a poor man, that hath need
+of Mo<g ref="char:EOLhyphen"/>ney, this is a great ſin in Tradſmen; they know <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat a poor man wants money, and he
+muſt ſell <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff his Ware, or elſe he cannot buy bread for his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amily, and therefore he muſt
+work upon his ne<g ref="char:EOLhyphen"/>ceſſity, and will not buy the Commodity of him, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nleſs he will ſell it
+cheaper than he can afford it: Now this is a great Oppreſſion! In the 25th of <hi>Levit.</hi>
+14. <hi>If thou buy any thing of thy Neighbour, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r ſelleſt any thing to thy Neighbour, thou
+muſt not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe Oppreſſion.</hi> There is an Oppreſſion in buying as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell as in ſelling:
+It is a great Oppreſſion for rich <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en to work upon the neceſſity of a poor Man, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o make him
+ſell cheaper than he can afford, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe to buy nothing at all of him.</p>
+               <p n="10">10. Do not buy thoſe things that are not fit to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e bought and ſold: as firſt. Do
+not buy ſtolen <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oods, they are not fit to be bought: If thou know<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt that the Goods that are
+to be bought are ſtol<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Goods, they are not to be bought, but to be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtored; the Receiver is
+as bad as the Thief, ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e buyer is as bad as the Thief. Secondly, Do <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or buy Monuments of
+Idolatry, for they are not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to be bought, as Croſſes, Beads, and Images, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Crucifixes, and
+the like. Thirdly, Do not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uy Men for Slaves, this the Lord reproves in <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mos</hi> 2.16.
+<hi>They ſold the Righteous for Silver, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e poor for a pair of Shoes:</hi> And ſo in the
+17th of <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t Thou ſhalt not ſteall thy Brother and m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erchandize of him.</hi> We
+ſhould therefore
+<pb n="14" facs="tcp:174312:10"/> take heed, leſt we ſplit our Souls upon any of the Rocks; and let us
+labour that among all our b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ings, we buy that which Chriſt bids us by, <hi>Iſaiah</hi> 55 1.
+<hi>Ho, every one that chirſteth come y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> unto the waters; and he that hath no monie, co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ye,
+<hi>and buy, come buy wine and milk with money, and without price.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>Rules concerning Selling Commodities.</head>
+               <p n="1">1. IF you would not tranſgreſs Scripture Rul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Selling Commodities, then in the f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+place, do not multiply words in Selling: T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Scripture affords many Examples for this, as
+<hi>Gen.</hi> 13.15. <hi>Abraham,</hi> As <hi>I</hi> told you before, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he was to buy the Cave of
+<hi>Machpelah</hi> of <hi>Ephron,</hi> told him that it was worth <hi>Four hundred Shekles
+Silver,</hi> and <hi>Abraham</hi> preſently gave him ſo mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Currant <hi>Money with the
+Merchant:</hi> And ſo G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> himſelf takes upon him to be a Seller, in <hi>Za<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 11.12. <hi>If
+you think good,</hi> ſaith God, <hi>give my price, if not, forbear;</hi> multiplicity of Wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is
+needleſs. <hi>In a multitude of words</hi> (ſaith S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lomon) <hi>there is Sin:</hi> Men ſhould
+not lav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and frollick in a Shop.</p>
+               <p n="2">2, Do not commend and over-praiſe a Co<g ref="char:EOLunhyphen"/>modity, when you know in your Conſcience th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+there is a fault in it: This is a vitious carria<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Seller, when he ſhall uſe abundance of
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> words to ſet out a Commodity, when it is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> good. As the Buyer ſhould not
+diſcommen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:174312:10"/> Commodity when it is good, ſo ſhould not the Seller over praiſe and
+commend a Commodity when it is nought.</p>
+               <p n="3">3. Do not ſell thy Commoditys by falſe Weights nor by falſe Meaſures. Do not keep
+a deceitfull Ballance, or deceitfull Meaſure; This is com<g ref="char:EOLhyphen"/>manded in <hi>Amos</hi> 8.5. <hi>They
+make the Ephah ſmall and the Shekel great, and falſifie the Ballances by de<g ref="char:EOLhyphen"/>ceit:</hi> And ſo
+in the 20th. of <hi>Prov</hi> 20. <hi>Divers Weights, and divers Meaſures, both of them are
+a<g ref="char:EOLhyphen"/>like an abomination unto the Lord.</hi> Now this is ſpoken, not that the Weights and Meaſures
+in themſelves are an Abomination to the Lord, but only thoſe Men that doe uſe, and keep and
+ſell by thoſe Weights and Meaſures; and therefore the Lord gave a ſpecial Law for this, to
+all that did follow Trades in <hi>Iſrael</hi> in <hi>Deut.</hi> 25.14, 15. Saith God there, [Thou
+ſhalt not have in thy houſe divers meaſures, a great and a ſmall, that is, a great
+meaſure to buy, and a ſmall one to ſell by, Thou ſhalt not have in thy bag divers weights,
+a great and ſmall, but thou ſhalt have a perfect and a juſt Weight, and a perfect and a
+juſt mea<g ref="char:EOLhyphen"/>ſure ſhalt thou have, that thy days may be long in the Land which the Lord thy God
+giveth thee: <hi>And ſo in</hi> Mic. 6.10. <hi>Is</hi> there yet, <hi>ſaith God,</hi> the
+treaſures of wickedneſs in the houſe of the wicked, and the ſcant meaſure, which is
+a<g ref="char:EOLhyphen"/>bomination to the Lord.</p>
+               <p n="4">4. You are to make Conſcience in ſelling a Commodity, not only that you do nor ſpeak
+falſly but alſo that you do not ſpeak in an Equivocating, manner. It is an Obſervation that
+<hi>Luther</hi> hath
+<pb n="16" facs="tcp:174312:11"/> upon theſe Words, <hi>Let no man defraud his Bro<g ref="char:EOLunhyphen"/>ther:</hi> Saith he. There
+are many Shop keepe that will not lye, but they will Equivocate ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> much: You ſhall have a
+Tradeſ-man, that ſell off a Commodity, he will get a Partner w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him, and he ſhall offer him
+ſo much for a Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>modity, and then he will tell the next man th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> comes for that Commodity, that
+there was o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that offered him ſo much for it but even no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and then they will ſay likewiſe, It
+coſt me much, when it may be they had other thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with it of greater value and price; and it may
+they had a great deal of time given them to p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for it; whereas the Buyer payes ready Mone<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and many
+other Equivocating words they u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which is as bad as lying.</p>
+               <p n="5">5. In ſelling a Commodity, do not work up the ignorance and ſimplicity of the Man that
+co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to buy the Commodity; but if you diſcern him be unskillful, rather uſe him the better, than
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> worſe: In <hi>Zech</hi> 1:9. ſays God there, <hi>In the ſame d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> alſo will I puniſh all
+thoſe young men that leap i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Threſhold, which fill their Maſters Ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> with violence and
+deceit;</hi> And ſo in 1 <hi>Theſ.</hi> 4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Let no Men,</hi> ſayes the Apoſtle, <hi>go
+beyond, or fraud his Brother in any matter, for the Lord is avenger of all ſuch;</hi> and ſo in
+2 <hi>Pet.</hi> 2 3. <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> through covetouſneſs ſhall they with feigned w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> make Merchandize
+of you, whoſe judgement ling<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not.</hi> When Men ſhall work upon the Ignor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Buyer, and
+ſo advance the price of Commodity; this is a great ſin.</p>
+               <p n="6">
+                  <pb n="17" facs="tcp:174312:11"/>6 Do not imbaſe a Commodity from its pri<g ref="char:EOLhyphen"/>mitive price and goodneſs, and yet
+ſell it at the full price as if it were Good, thereby to get the more by it; This the Scripture
+condemns in <hi>A<g ref="char:EOLhyphen"/>mos</hi> 8.6. <hi>They ſell the refuſe of the Wheat.</hi> The Corn mongers in
+thoſe times they would pluck out the beſt of their Wheat, and yet ſell the worſt at the
+full price of the beſt; now this the Lord condemns: and ſo in <hi>Iſa.</hi> 1.21. <hi>They
+mingle wine with water, and droſs with ſilver:</hi> The Scripture condemns this, to imbaſe a
+Commodi<g ref="char:EOLhyphen"/>ty from its primitive goodneſs, and yet to ſell it at the full value of the beſt.</p>
+               <p n="7">7. Be not among the firſt that ſhall raiſe the price of a Commoditie: This I hinted
+to you before in <hi>Prov.</hi> 11.26 <hi>He that withholdeth Corn, the p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ople ſhall curſe him;
+but bleſſing ſhall he upon the head of him that ſeileth it.</hi>
+               </p>
+               <p n="8">8. Be not ſo eager in ſelling of your Commo<g ref="char:EOLhyphen"/>dities, that you cannot content your
+ſelves to ſell on the ſix days of the Week, but you muſt ſell on the Sabbath-day
+likewiſe; Be not like thoſe in <hi>Amos</hi> 8.5. ſaying, <hi>When will the new Moo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be over,
+that we may ſell Corn, and the Sabbath be over, that we may ſet forth Wheat?</hi> And ſo in
+<hi>Neh.</hi> 13.15. <hi>In th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe days</hi> ſaith the Prophet, <hi>I ſaw <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Judah ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ng in W ne preſſes on the S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bba h<g ref="char:punc">▪</g> and br ngin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ln S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>caves, and la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> aſſ s, and
+all ma ner of Bu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>hens, which they b o <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> into Jeru<g ref="char:EOLhyphen"/>ſalem on the Sabbath, and I teſtified
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gainst <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>em in the day wherein they ſold Victual</hi> N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w this is againſt your common ſel<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g
+H<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and S ops of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ean Trades, that ſell by retail, that makes no<g ref="char:EOLhyphen"/>thing
+<pb n="18" facs="tcp:174312:12"/> of ſelling ſmall trefling things on the Sabbath day, but this is a great
+ſin.</p>
+               <p n="9">9. When you are found out to be deceitful in your dealing, do not juſtifie your deceit;
+many men, if you come to them, and tell them tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they ſell dearer than their Neighbours, they
+wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tell you that they do not; or if you tell then that the Commodity is not good which you bough<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+of them, they will ſay, it is as good as they ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> afford for the price, and the like; this is
+co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>demned in <hi>Ephraim,</hi> in <hi>Hoſ.</hi> 12.7. <hi>Ephraim a Merchant, the ballance of
+deceit are in h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hand, he loves to oppreſs, and yet he ſaith I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> become Rich, and I have
+found me out ſubſtan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and in all my labours they ſhall find no iniqui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in me,</hi> that is
+ſin: you ſhould not juſtifie yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deceit.</p>
+               <p n="10">10. Do not ſell thoſe things that are not ſal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> able: As firſt, do not ſell
+ſpiritual things, for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are not ſaleable; as in <hi>Acts</hi> 8.20. <hi>Simon M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>gus,</hi>
+when he would have bought the gift of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Holy Ghoſt with Money, ſaith <hi>Peter</hi> to
+him, T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>monie periſh with thee, becauſe thou thoughtest <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Gift of God might be
+purchaſed with Money<g ref="char:punc">▪</g>
+                  </hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>condly, do not ſell Monuments of Idolatry, Croſſes, and
+Beads, and Images, and Crucifix and Conjuring-books, and the like, they are fit to be ſold, as in
+<hi>Acts</hi> 19.19. <hi>Many alſo of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that uſed curious Arts, brought their Books
+t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ther, and burnt them before all Men, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>counted the price of them, and they found i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be</hi>
+50000 <hi>pieces of Silver:</hi> This is ſpoken <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Conjuring Books; and notwithſtanding
+<pb n="19" facs="tcp:174312:12"/> were of ſo great a value, they would not ſell whem, but burn them.
+Thirdly, Do not ſell thy ſelf as <hi>Ahab</hi> did, to work wickedneſs; for you are not your
+own, but Gods, and there<g ref="char:EOLhyphen"/>fore you muſt <hi>glorifie God in your Bodies and in your Sou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, which
+are God's.</hi> Fourthly, you muſt not ſell ſtoln Goods. Fifthly, You muſt not ſell
+thoſe things that are for no other uſe. but for to commit ſin in the uſing of them. As for
+to ſell ſtuff to paint Harlot's Faces, is a ſin, be<g ref="char:EOLhyphen"/>cauſe it is for no other uſe, but to
+commit Sin in the uſing of it.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="part">
+            <pb n="20" facs="tcp:174312:13"/>
+            <head>A Morning Prayer to be uſed in Families.</head>
+            <p>WE praiſe thee, O God, for thy many pre<g ref="char:EOLhyphen"/>cious benefits beſtowed on us, for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Creation of
+the World, and for the Redemptio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Mankind by the Lord Jeſus: thou didſt ſafe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> take us
+from the womb, and haſte ever ſince car<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for us, thou haſt of thy ſweet mercy cauſed us
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be born within thy Church, where we have be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> early given to thee in Baptiſm. Thou haſt
+affor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed us the means of Grace, and called us to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hope of Glory.</p>
+            <p>But, O moſt merciful Father, we poor a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> miſerable ſinners, conceived in ſin and brou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+forth into iniquity, have gone aſtray from the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we have not cared to know thee, and to do <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+will. but have done our own wills, and follow our fooliſh and ſinful inclinations: and do
+ther<g ref="char:EOLunhyphen"/>fore deſerve thy wrath and curſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>O Lord; have mercy upon us, turn us <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thee, and grant us true Repentance and forgive<g ref="char:EOLunhyphen"/>neſs
+of all our ſins, for Jeſus ſake: let it hence<g ref="char:EOLunhyphen"/>forth be our chiefeſt care to pleaſe thee,
+and ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thy Kingdom and Righteouſneſs: work in us a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Faith, and a lively Hope, and a
+frequent Ch<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ty: make us Humble, M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ek, Patient, Sober, Juſt, Kind and Loving to all Men,
+Submiſſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="21" facs="tcp:174312:13"/> and Obedient to them that are over us: and well Content and Thankfull in every
+condition of Life: Grant that we may daily grow in Knowledge, Lov<g ref="char:EOLhyphen"/>ing, Fearing and Obeying thee:
+Creat in us clean Hearts, O God, and renew right Spirits within us.</p>
+            <p>O Lord, ſend thy Goſpel through the World pour out plentifully the Spirit of Truth,
+Hollneſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Peace on all thy People. Bleſs this <hi>Church</hi> and <hi>Kingdom,</hi>
+preſerve our <hi>King</hi> and <hi>Queen,</hi> and all the Royal Family; Guide our Judges and
+Ma<g ref="char:EOLhyphen"/>giſtrats, ſanctifie and aſſiſt the Miniſters of the Goſpel: Viſite all that are
+in Trouble, and ſan<g ref="char:EOLhyphen"/>ctifie their affliction unto them: be gracious to all our Kindred, Friends
+and Neighbours, bleſs and forgive all our Enemies.</p>
+            <p>We thank thee, O Lord, for thy care of us this night, watch over us this day, and Make us
+mindful that we are always in thy fight, that we may be in thy fear all the day long: bleſs us
+alſo, O God, in all our lawful imployments, and eſta<g ref="char:EOLhyphen"/>bliſh thy work in our hands, and grant
+that through the whole courſe of our Life we may be Holy and Harmleſs in all manner of Life and
+Con<g ref="char:EOLhyphen"/>verſation, than when this ſhort and frail Life is at an End, we may be partakers of
+everlaſting life through the merits of Jeſus Chriſt our Lord, in whoſe Name and Words we
+pray, <hi>Our Father, &amp;c.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="22" facs="tcp:174312:14"/>
+            <head>An Evening Prayer for Families.</head>
+            <p>MOſt gracious God, what ſhall we render to thee for thy many and great benefits beſtowed
+on us? Though we have been unthankful and undutiful ſervants to thee our Lord and Maſter; Thou
+haſt continued thy care and kindneſs for us ever ſince me were born, and haſt preſerved
+us this day: let us never forget thy goodneſs, but grant that thereby we may be led to Repentance
+and Amendment of Life. Preſerve us from every thing that is diſpleaſing to thee. O Lord, keep
+us from curſing, ſwearing and lying from pride, ſtubborneſs and idleneſs: work in us an
+utter diſlike of all uncleanneſs, gluttony, and drunkenneſs of malice and envy, of ſtrife
+and contention, of deceit and covetouſneſs: Give u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grace to deny all ungodlineſs and worldly
+luſts, and to live ſoberly, righteouſly and godly in this preſent world. Cauſe us to
+underſtand and conſi<g ref="char:EOLunhyphen"/>der the Laws and Life of Jeſus, that we may d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his will, and follow his
+ſteps. Let never th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cares of this life, nor the love of riches, nor ev<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> company, nor the corrupt
+cuſtoms of the world withdraw us from the obedience of thy Laws; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtrengthen and
+eſtabliſh us by thy holy Spiri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that we may live and die thy faithful Servants.</p>
+            <p>O Lord ſend thy Goſpel through the Worl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pour out plentifully the ſpirit of truth, holin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="23" facs="tcp:174312:14"/> and Peace on all thy people. Bleſs this Church and Kingdom, preſerve our
+King and Queen, and all the Royal Family; guide our Judges and Magiſtrats, ſanctifie and
+aſſiſt the Miniſters of the Goſpel, viſit all that are in trouble, and ſanctifie
+their afflictions unto them: be gracious to all our Kindred, Friends and Neighbours: bleſs and
+for<g ref="char:EOLhyphen"/>give all our Enemies. O Lord, be merciful to us, forgive us the ſins of this day, watch over
+us this night, and keep us ever mindful that we muſt ſhortly die, and that we may without delay
+turn to thee, and paſs the time of our ſojourning here in fear. Good Lord, hear us, and grant
+theſe our deſires, and what elſe thou knows to be need<g ref="char:EOLhyphen"/>ful for us, and that for the merits of
+Jeſus Chriſt, in whoſe Name and Words we pray, <hi>Our Father which art in Heaven,</hi>
+&amp;c.</p>
+            <div type="subpart">
+               <head>Grace to be ſaid before Meat.</head>
+               <p>O Lord, be merciful to us, and pardon our ſins: ſanctifie theſe thy good benefits, that we
+by the ſober and thankful uſe of them, may be en<g ref="char:EOLhyphen"/>abled for thy ſervice, through Jeſus
+Chriſt our Lord and Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>Thanksgiving after Meat.</head>
+               <p>WE thank and praiſe thee, O Lord, the giver of all good, who haſt at this time fed our
+Bodies: ſtir up in us a greater care for our Souls: and grant that our ſhort lives which are
+ſo carefully ſuſtained by thy bounty, may be ſpent in doing thy will. Lead us ſafely
+through this vain and ſinful World, in which we are pilgrims and Strang<g ref="char:EOLhyphen"/>ers, and bring us into
+everlaſting reſt, through Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord, <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="authors_note">
+            <pb facs="tcp:174312:15"/>
+            <p>THe Contents of this Book is deſired to be practiſed by all good Chriſtians.</p>
+            <closer>
+               <signed>By yours <hi>R. Alleine.</hi>
+               </signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
